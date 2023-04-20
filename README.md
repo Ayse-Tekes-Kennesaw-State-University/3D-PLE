@@ -1,7 +1,6 @@
 # 3D-Printed Lab Equipment for Undergraduate Engineering Courses 
 ### Dr. Ayse Tekes (Associate Professor, Mechanical Engineering)
-### Dr. Tris Utschig (Director for Scholarly Teaching and Professor of Nuclear Engineering
-Center for Excellence in Teaching and Learning (CETL))
+### Dr. Tris Utschig (Director for Scholarly Teaching and Professor of Nuclear Engineering Center for Excellence in Teaching and Learning (CETL))
 3D printed Lab Equipment for Undergraduate Engineering Courses
 This repository contains the cad models, laboratory handout, and instructional videos for the developed 
 laboratory equipment. This project is funded by NSF under the award number of 2002350.
